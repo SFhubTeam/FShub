@@ -7,7 +7,7 @@ Best safe and minimalist mobile script for Undertale Mania RPG and other Roblox 
 ## 📥 Copy Loadstring Here / Скопировать скрипт тут:
 
 ```lua
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SFhubTeam/FShub/refs/heads/main/fshub_core.lua"))()
 ```
 
 ---
